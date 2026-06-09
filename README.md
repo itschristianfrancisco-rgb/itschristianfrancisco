@@ -12,6 +12,8 @@
   <h3>BSIS Student At  | Aspiring System Analyst & Developer</h3>
   <div align="center">
   <img src="Messenger_creation_7DAFBB93-7206-4C81-B73A-87E5A9E5D619.jpeg"
+  width="180" height="180" style="border-radius: 50%; border: 3px solid #6e40c9; object-fit: 
+    
 
 
     
