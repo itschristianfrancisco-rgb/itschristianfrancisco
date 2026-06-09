@@ -4,6 +4,9 @@
   <br/>
   
   <h1>Hello, I'm Christian Francisco 👋</h1>
+  <p align="center" style="max-width: 700px; font-size: 1.1em; color: #8b949e; line-height: 1.6;">
+    Highly motivated and detail-oriented <b>Bachelor of Science in Information Systems (BSIS)</b> student at Davao Del Norte State College. I am passionate about system design, analysis, and bridging the gap between business processes and user-friendly technology solutions.
+  </p>
 </div>
 
   <br/><br/>
@@ -17,11 +20,6 @@
     <a href="mailto:christianfrancisco112005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <img src="https://img.shields.io/badge/Location-Davao%20City,%20PH-FF4500?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   </p>
-
-  <p align="center" style="max-width: 700px; font-size: 1.1em; color: #8b949e; line-height: 1.6;">
-    Highly motivated and detail-oriented <b>Bachelor of Science in Information Systems (BSIS)</b> student at Davao Del Norte State College. I am passionate about system design, analysis, and bridging the gap between business processes and user-friendly technology solutions.
-  </p>
-</div>
 
 ---
 
