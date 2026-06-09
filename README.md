@@ -93,7 +93,7 @@
 
 ## 🎓 Education
 
-```text
+
 Davao Del Norte State College
 📍 Bachelor of Science in Information Systems (BSIS)
 📅 2024 — Present
