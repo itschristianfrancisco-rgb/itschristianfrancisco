@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="[https://www.facebook.com/share/1NUkQWkqiV/?mibextid=wwXIfr]
-    q=80&w=1000&auto=format&fit=crop" alt="Header Banner" width="100%" style="border-radius: 10px; max-height: 250px; object-fit: cover;"/>
+  <img src="profile.jpg" width="180" height="180" style="border-radius: 50%; border: 3px solid #6e40c9; object-fit: cover;" alt="Christian Francisco Profile"/>
+  
+  <br/>
+  
+  <h1>Hello, I'm Christian Francisco 👋</h1>
+</div>
   
   <br/><br/>
   
